@@ -12,7 +12,7 @@ Mostafa Waleed: Mostafa Waleed is our versatile team member, skilled in taking t
 
 Usif Araby: Usif Araby is the powerhouse behind the power-up bullets derived from the gifts and stars. He has also put in tremendous effort in designing the spaceships and their bullets. Usif's hard work and dedication have significantly contributed to the overall success of Chicken Invaders.
 
-Basmala Alhabshe: Basmala Alhabshe is our talented UI/UX designer, responsible for creating the visually appealing and user-friendly interface that enhances your gaming experience. Basmala also collaborated with me, Bassiouny, in crafting the mesmerizing chicken models that you'll encounter throughout the game.
+Basmala Alhabshe: Basmala Alhabshe, our talented UI/UX designer, has left her mark on Chicken Invaders by creating a visually appealing and user-friendly interface that enhances your gaming experience. Her artistic sensibilities and ingenious ideas have transformed the game into an immersive and engaging adventure. In collaboration with me, Bassiouny, she has crafted mesmerizing chicken models that you'll encounter throughout the game, adding a touch of enchantment to your journey.
 
 I am immensely grateful to each team member for their hard work, dedication, and passion. Without their expertise and commitment, Chicken Invaders wouldn't be possible. Together, we are creating an unforgettable gaming experience that will have you clucking for more!
 
