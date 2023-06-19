@@ -1,4 +1,4 @@
-# chicken-invaders-
+# chicken-invaders
 Welcome to the Chicken Invaders Team Repository!
 As the proud leader of the Chicken Invaders team, Bassiouny, I am delighted to welcome you to our GitHub repository! This is where our dedicated team collaborates to bring you the exciting world of Chicken Invaders. Allow me to introduce our talented team members who have played vital roles in making this project a reality:
 
